@@ -1,0 +1,6 @@
+.row{
+    display: flex;
+}
+.intro-image{
+    height: calc(10px + 15vmin);
+}
