@@ -1,16 +1,23 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.f5d87644.chunk.css",
-    "main.js": "/portfolio/static/js/main.ad49b42f.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.ad49b42f.chunk.js.map",
+    "main.css": "/portfolio/static/css/main.8175b210.chunk.css",
+    "main.js": "/portfolio/static/js/main.f0ce4976.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.f0ce4976.chunk.js.map",
     "runtime~main.js": "/portfolio/static/js/runtime~main.f308c8e6.js",
     "runtime~main.js.map": "/portfolio/static/js/runtime~main.f308c8e6.js.map",
-    "static/js/2.463c3de0.chunk.js": "/portfolio/static/js/2.463c3de0.chunk.js",
-    "static/js/2.463c3de0.chunk.js.map": "/portfolio/static/js/2.463c3de0.chunk.js.map",
+    "static/js/2.d0b4641f.chunk.js": "/portfolio/static/js/2.d0b4641f.chunk.js",
+    "static/js/2.d0b4641f.chunk.js.map": "/portfolio/static/js/2.d0b4641f.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.88a356577a93910b8cfdb56ef0447668.js": "/portfolio/precache-manifest.88a356577a93910b8cfdb56ef0447668.js",
+    "precache-manifest.42f53bbea5d89ebbea08f497511c3be9.js": "/portfolio/precache-manifest.42f53bbea5d89ebbea08f497511c3be9.js",
     "service-worker.js": "/portfolio/service-worker.js",
-    "static/css/main.f5d87644.chunk.css.map": "/portfolio/static/css/main.f5d87644.chunk.css.map",
-    "static/media/train.png": "/portfolio/static/media/train.6d045735.png"
+    "static/css/main.8175b210.chunk.css.map": "/portfolio/static/css/main.8175b210.chunk.css.map",
+    "static/media/android.png": "/portfolio/static/media/android.4973e997.png",
+    "static/media/developer1.png": "/portfolio/static/media/developer1.a3e09639.png",
+    "static/media/nodejs.png": "/portfolio/static/media/nodejs.0d8ed365.png",
+    "static/media/php.png": "/portfolio/static/media/php.1f59d53f.png",
+    "static/media/react.png": "/portfolio/static/media/react.4af927e2.png",
+    "static/media/springboot.png": "/portfolio/static/media/springboot.8315cb30.png",
+    "static/media/train.png": "/portfolio/static/media/train.6d045735.png",
+    "static/media/yii.png": "/portfolio/static/media/yii.350a6ee1.png"
   }
 }
