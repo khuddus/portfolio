@@ -21,22 +21,12 @@ function App() {
     Projects,
     Contact
   ]
-  useEffect(() => {
-
-    // Update the document title using the browser API
-    document.title = `You clicked ${count} times`;
-
-  });
+  
   const changeClass = () => {
     setShowMessage(!showMessage);
 
   };
-  // const setDirection = ({ keyCode }) => {
-  //   // Horizontal keys
-  //   if(keyCode === 37 || keyCode === 39){
-  //     changeClass();
-  //   }
-  //  };
+ 
   return (
     <div className="App"  onClick={changeClass}  >
       <div className='pageContainer'>
@@ -50,7 +40,6 @@ function App() {
             const distancePerEachPage = parseInt(pageWidth / (pagesCount - 1));
             
             setTrainMargin(((count + 1) % pagesCount) * distancePerEachPage);
-            console.log(count, count + 1, ((count + 1) % pagesCount))
             setCount((count + 1) % pages.length);
 
             setShowMessage(!showMessage);
@@ -61,7 +50,7 @@ function App() {
           {pages[parseInt(count)]}
         </CSSTransition>
       </div>
-      <footer>
+      <footer className="bg-light">
         <CSSTransition
           in={showMessage}
           timeout={300}
@@ -69,9 +58,15 @@ function App() {
          
           unmountOnExit
         >
+<div>
+<div class="steam" id="steam-one"  style={{ marginLeft: (trainMargin + 12) +  'vw' }}></div>
+  <div class="steam" id="steam-two" style={{ marginLeft: (trainMargin + 12) + 'vw' }}></div>
+  <div class="steam" id="steam-three" style={{ marginLeft: (trainMargin + 12) + 'vw' }}></div>
+  <div class="steam" id="steam-four" style={{ marginLeft: (trainMargin + 12) + 'vw' }}></div>
+   <img src={logo} onClick={changeClass} className="train" style={{ marginLeft: trainMargin + 'vw' }} alt="logo" />
 
-          <img src={logo} onClick={changeClass} className="train" style={{ marginLeft: trainMargin + 'vw' }} alt="logo" />
-        </CSSTransition>
+</div>
+                 </CSSTransition>
       </footer>
     </div>
   );

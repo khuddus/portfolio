@@ -2,12 +2,13 @@ import React from 'react';
  
 
 function Introduction() {
+    document.title = "Abdul Khuddus - Projects"
    
     return (
         <div className="introduction">
 
             <div className="page1">
-                <header className="App-header">
+                <header className="App-header color-super-light">
                     <h1>Projects</h1>
                     
                          <p>Dream Homes Magazine - Web and Android</p>

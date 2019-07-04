@@ -1,13 +1,13 @@
 import React from 'react'; 
  
-
-function Introduction() {
+function Skills() {
+    document.title = "Abdul Khuddus - skillset"
    
     return (
         <div className="introduction">
 
             <div className="page1">
-                <header className="App-header">
+                <header className="App-header color-super-light">
                     <h1>Skills</h1>
                     
                     <h3>Web</h3>
@@ -26,4 +26,4 @@ function Introduction() {
     );
 }
 
-export default Introduction;
+export default Skills;

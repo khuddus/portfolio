@@ -1,13 +1,13 @@
 import React from 'react'; 
  
 
-function Introduction() {
+function Contact() {
    
     return (
         <div className="introduction">
 
             <div className="page1">
-                <header className="App-header">
+                <header className="App-header color-super-light">
                     <h1>Contact me</h1>
                     
                     <address>
@@ -26,4 +26,4 @@ function Introduction() {
     );
 }
 
-export default Introduction;
+export default Contact;
