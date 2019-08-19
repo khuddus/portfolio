@@ -10,6 +10,7 @@ import Philosophy from './pages/Philosophy';
 import Skills from './pages/Skills';
 import Projects from './pages/Projects';
 import Contact from './pages/Contact';
+import Clients from './pages/Clients';
 function App() {
   const [count, setCount] = useState(0);
   const [showPage, setShowPage] = useState(true);
@@ -22,6 +23,7 @@ function App() {
     Philosophy,
     Skills,
     Projects,
+    Clients,
     Contact
   ]
 
