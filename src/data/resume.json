@@ -1,0 +1,174 @@
+{
+  "basics": {
+    "name": "Abdul Khuddus",
+    "label": "Senior Software Developer",
+    "image": "https://s.gravatar.com/avatar/a09b68fe3ca9be38a3ed3d6722b0e81e?s=250",
+    "summary": "I’m a full stack web developer who can build apps from the ground up. I've worked mostly at startups so I am used to wearing many hats. I am a very product focussed developer who priotizes user feedback first and foremost. I'm generally very flexible when investigating new roles. ",
+    "website": "https://registry.jsonresume.org/khuddus",
+    "email": "khuddus1@gmail.com",
+    "location": {
+      "city": "Vijayawada",
+      "countryCode": "IN"
+    },
+    "profiles": [
+      {
+        "username": "devkhuddus",
+        "url": "https://twitter.com/devkhuddus",
+        "network": "twitter"
+      },
+      {
+        "url": "https://github.com/khuddus",
+        "username": "khuddus",
+        "network": "github"
+      }
+    ]
+  },
+  "education": [
+    {
+      "endDate": "2018-05-13",
+      "startDate": "2016-11-10",
+      "area": "Information Technology (complete)",
+      "studyType": "Bachelors",
+      "institution": "JNTU K / Usharama"
+    },
+    {
+      "endDate": "2013-04-13",
+      "startDate": "2010-06-10",
+      "area": "Information Technology (incomplete)",
+      "studyType": "Bachelors",
+      "institution": "JNTU K / Usharama"
+    }
+  ],
+  "references": [
+    {
+      "reference": "Abdul has been developer for different projects of us. And he really understands project well and delivers the results as expected.",
+      "name": "Venu Srinivas, Dream Ads."
+    },
+    {
+      "reference": "Abdul is a very talented and skilled in developing software products. He has been my co-founder at worthmate. It was pleasure working with him",
+      "name": "Paramesh, Co-Founder, Worthmate"
+    }
+  ],
+  "skills": [
+    {
+      "keywords": [
+        "HTML / JSX",
+        "CSS / Styled Components",
+        "Javascript / Typescript",
+        "React",
+        "Redux "
+      ],
+      "level": "Senior",
+      "name": "Frontend"
+    },
+    {
+      "keywords": [
+        "Node",
+        "PHP",
+        "Laravel",
+        "Yii2",
+        "Postgres",
+        "Spring Boot",
+        "JAVA"
+      ],
+      "level": "Senior",
+      "name": "Backend"
+    },
+    {
+      "keywords": ["Android", "JAVA", "React Native"],
+      "level": "Senior",
+      "name": "Mobile Development"
+    },
+    {
+      "keywords": ["AWS", "Heroku", "Caching"],
+      "level": "Senior",
+      "name": "Devops"
+    }
+  ],
+  "awards": [
+    {
+      "title": "Engineer ka MahaSangram - Winner",
+      "awarder": "Usharama College of Engineering and Technology"
+    }
+  ],
+  "work": [
+    {
+      "highlights": ["Laravel Development", "React Development"],
+      "summary": "Started off as a full stack developer but took on the role of Team Lead in early 2020. The application frontend is built with Javascript and back-end is built with Laravel, which is managed with PostGreSQL DB.",
+      "website": "http://primosoft.co.in/",
+      "company": "Primosoft",
+      "position": "Full Stack Developer",
+      "startDate": "2019-11-07"
+    },
+    {
+      "highlights": [
+        "Can't fake GPS locations using this app, even by using apps like fake gps"
+      ],
+      "summary": "When medical staff appointed on a government project, were frequently skipping their attendance, the man power consultancy contacted me to check this behavior. I have developed a location based app, which takes photograph in the client location to mark the attendance",
+      "company": "Location based Attendance",
+      "position": "Back-end and mobile developer",
+      "startDate": "2018-06-01",
+      "endDate": "2018-10-01"
+    },
+    {
+      "highlights": ["Angular", "Node JS", "Mongo DB"],
+      "summary": "Worked on rebuilding AK exams to improve performance, using Node, Angular and MongoDB",
+      "company": "Worthmate",
+      "position": "Co-Founder",
+      "startDate": "2016-04-01",
+      "endDate": "2016-08-01"
+    },
+    {
+      "highlights": [
+        "Location based social media app, where the posts are visible only within predefined radius from where the post has been made",
+        "Zee Cabs - Mobile app - This is a local version of Ola cabs for the city of Hyderabad, which is less automated relatively."
+      ],
+      "summary": "Worked on multiple projects in short span of time.",
+      "website": "http://imantechsolutions.com/",
+      "company": "Iman Tech Solutions",
+      "position": "Mobile Application Developer",
+      "startDate": "2015-08-01",
+      "endDate": "2016-04-01"
+    },
+    {
+      "highlights": [
+        "Over two thousand exams conducted",
+        "Managed a team of three members to build this software",
+        "Developed in pattern of pair programming"
+      ],
+      "summary": " Ak Exams is a website, through which we can conduct, and evaluate exams in an easy manner. We can also be able to observe the graphical views of performances of individual students, classes, compare them, analyze them and many more functions.",
+      "company": "AK Exams",
+      "position": "Founder",
+      "startDate": "2015-01-01",
+      "endDate": "2015-06-01"
+    },
+    {
+      "summary": "Online version of dream homes magazine is an application which provides admin a panel to create magazines for every month, and upload pages as images, and create magazines for different regions.  This project also contains a separate panel to grant access to different users by admin. Initially user log in system is provided through facebook log in. Later due to client requirements Login system is shifted from facebook login to own login system. I’ve also developed an android application for them using Phonegap technology.",
+      "company": "Dream Homes Magazine",
+      "position": "Full Stack Developer",
+      "startDate": "2014-01-01",
+      "highlights": [
+        "Admin Module",
+        "Web Front-end",
+        "PhoneGap based mobile app"
+      ]
+    }
+  ],
+  "interests": [
+    {
+      "name": "Gardening"
+    },
+    {
+      "name": "Music"
+    },
+    {
+      "name": "Movies"
+    },
+    {
+      "name": "Reading"
+    },
+    {
+      "name": "Open Source"
+    }
+  ]
+}
